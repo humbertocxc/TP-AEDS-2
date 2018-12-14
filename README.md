@@ -5,3 +5,5 @@
   A saída no terminal é, em cada linha, a quantidade de repetições da palavra, um espaço em branco e a palavra.
 
   Para executar o programa basta abrir a pasta com os arquivos no terminal e escrever "make".
+  
+  As informações e a explicação do programa estão nos comentários dos arquivos.
